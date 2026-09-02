@@ -2,7 +2,7 @@
 
 set -e
 
-THEMES="Papyrus Papyrus-Dark"
+THEMES="Papyrus"
 DESTDIR="${DESTDIR:-/usr/share/icons}"
 
 # Resolve the directory this script lives in

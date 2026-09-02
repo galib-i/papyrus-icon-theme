@@ -2,7 +2,7 @@
 
 set -e
 
-THEMES="Papyrus Papyrus-Dark"
+THEMES="Papyrus"
 
 _sudo() {
     if [ -w "$1" ]; then

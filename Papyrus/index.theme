@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Papyrus
 Comment=Papyrus icon theme
-Inherits=breeze,hicolor
+Inherits=breeze-dark,hicolor
 
 Example=folder
 

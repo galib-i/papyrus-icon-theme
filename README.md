@@ -7,6 +7,8 @@ A personal fork of [Papirus Icon Theme](https://github.com/PapirusDevelopmentTea
 Original work by Alexey Varfolomeev and contributors.  
 Source: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 
+This fork also incorporates various assets and designs from the [Palette Icon Theme](https://github.com/EliverLara/palette).
+
 ## License
 
 Licensed under the [GNU General Public License v3.0](LICENSE), the same license as the original project.

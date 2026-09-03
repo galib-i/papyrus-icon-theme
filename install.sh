@@ -3,7 +3,7 @@
 set -e
 
 THEMES="Papyrus"
-DESTDIR="${DESTDIR:-/usr/share/icons}"
+DESTDIR="/usr/share/icons"
 
 # Resolve the directory this script lives in
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"

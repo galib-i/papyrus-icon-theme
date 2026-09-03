@@ -8,6 +8,7 @@ Original work by Alexey Varfolomeev and contributors.
 Source: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 
 This fork also incorporates various assets and designs from the [Palette Icon Theme](https://github.com/EliverLara/palette).
+The Spectacle icon design was adapted from the [Win11 Icon Theme](https://github.com/yeyushengfan258/Win11-icon-theme).
 
 ## License
 
